@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcf3e04c-eeb9-41aa-ae9e-c9e2b73e6246" name="mgx">
+        <fileTransfer accessType="SFTP" host="222.22.66.227" port="9999" sshConfigId="9623be94-5d8b-46ce-a48f-27e7b494e4c0" sshConfig="mgx@222.22.66.227:9999 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
